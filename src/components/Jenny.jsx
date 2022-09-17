@@ -1,5 +1,5 @@
 import JennyImage from "../assets/blackpink/jenny.png";
-export default function Jisoo() {
+export default function Jenny() {
   return (
     <div>
       <img src={JennyImage} alt="제니" />
